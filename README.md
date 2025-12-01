@@ -1,7 +1,3 @@
-Below is a **short, crisp, copy-paste-ready README.md** rewritten to emphasize **comparison between Kalman filtering and Window Averaging** as you requested, including the YouTube thumbnail.
-
----
-
 # Comparison of Kalman Filtering and Window Averaging for Temperature Sensor Data
 
 This Arduino project compares two filtering methods, Kalman filtering and moving window averaging, to clean noisy temperature sensor readings. The goal is to evaluate which method provides smoother and more stable output for real-time temperature measurements.
